@@ -1,4 +1,4 @@
-# THỰC HÀNH LAB 8: KIỂM THỬ HIỆU NĂNG VỚI APACHE JMETEr
+# THỰC HÀNH LAB 8: KIỂM THỬ HIỆU NĂNG VỚI APACHE JMETER
 
 **Thông tin sinh viên:**
 * **Họ và tên:** Đồng Đại Đạt  
